@@ -37,3 +37,7 @@ Gradual decline in subsequent quarters
 **Andrew T.:** Leading with $108,961.54
 
 **Louis N.:** Close second with $99,003.00
+
+
+<img width="611" alt="Revenue Dashboard Pic 1" src="https://github.com/user-attachments/assets/fa1493c0-f5e6-4acd-84dc-cfccc81c610c">
+
